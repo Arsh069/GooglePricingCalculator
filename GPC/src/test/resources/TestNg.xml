@@ -1,0 +1,8 @@
+<suite name="TestNg">
+
+    <test name="ChromeTest">
+        <packages>
+            <package name="com.epam.test" />
+        </packages>
+    </test>
+</suite>
